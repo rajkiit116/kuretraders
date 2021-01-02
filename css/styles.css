@@ -99,7 +99,7 @@ body{
 .card-description{
     font-size: 0.9em;
     font-family:sans-serif;
-    background-color: rgba(228, 250, 224, 0.4);
+    background-color: rgba(228, 250, 224, 0.3);
 }
 .item-price{ 
     font-size: 1.5em;
